@@ -13,7 +13,7 @@ Afterwards in each step soldiers who are face to face flip 180 degrees.
 #### Qustion is: how many steps are needed until there are no face-to-face soldiers ?
 
 ## How do we solve this ?
-In this code we have simulated the process with python  from 10 to n soldiers (you can define n ) and  counted the number of tries until having no face-toface position in line and repeated it 10 times for every soldiers number.
+In this code we have simulated the process with python  from 10 to n soldiers (you can define n ) and  counted the number of tries until having no face-to-face position in line and repeated process of solving  10 times for every soldiers number.
 
 Next the avrage of trying number is calculated.
 
