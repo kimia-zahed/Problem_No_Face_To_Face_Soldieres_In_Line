@@ -24,3 +24,4 @@ n = number of soldiers
 step = number of triies 
 
 #### step = 0.5 * n
+![Test Image 7](https://github.com/kimia-zahed/hamiltonian_neural_network/blob/main/picture_massSpring/hamiltonyPerTime_massSpringHNN.jpg)
